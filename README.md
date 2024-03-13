@@ -1,5 +1,5 @@
 
-# MLX
+# RLX
 
 RLX: Single file implementations of Deep Reinforcement Learning algorithms in Apple's [MLX](https://github.com/ml-explore/mlx) Library 
 
